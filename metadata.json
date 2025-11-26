@@ -1,0 +1,7 @@
+{
+  "name": "Taco Booth Pro",
+  "description": "A fun, interactive photo booth experience for iPad that prompts users to pose with a taco and creates a branded souvenir photo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
